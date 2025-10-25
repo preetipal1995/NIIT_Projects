@@ -1,1 +1,1 @@
-# NIIT_Projects
+# Projects
